@@ -7,8 +7,6 @@ Go-Zendesk is a [Zendesk Core API](https://developer.zendesk.com/rest_api/docs/c
 
 This library is used internally at MEDIGO and the API resources are being implemented as needed.
 
-**It's work in progress. Use with caution.**
-
 ## Usage
 
 ```go
@@ -67,4 +65,4 @@ You most likely want to run them against a [Zendesk Sandbox](https://support.zen
 
 ## Copyright and license
 
-Copyright © 2017 MEDIGO GmbH. go-zendesk is licensed under the MIT License. See LICENSE for the full license text.
+Copyright © 2019 MEDIGO GmbH. go-zendesk is licensed under the MIT License. See [LICENSE]() for the full license text.
